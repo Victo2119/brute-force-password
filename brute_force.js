@@ -5,7 +5,7 @@ let URL_TO_TEST = "http://127.0.0.1:5000/verify_login"
 let METHOD_TO_USE = "GET"
 
 // Developer Comment: Passwords to test using brute force. Add more common passwords as required.
-wordlist = ["123456", "12345678", "qwerty"]
+wordlist = [""123456", "12345678", "qwerty", "12345", "123456789", "1234567", "football", "admin", "welcome", "monkey", "login", "abc123", "starwars", "123123", "dragon", "passw0rd", "master", "hello", "freedom", "whatever", "qazwsx", "Trustno1", "654321", "J0rdan23", "Passw0rd01", "11111", "golfer", "cook1e", "richard", "samantha", "bigdog", "guitar", "jackson", "whatever", "mickey", "chicken", "sparky", "snoopy", "maverick", "phoenix", "camaro", "peanut", "morgan", "welcome", "falcon", "cowboy", "ferrari", "samsung", "andrea", "smokey""]
 
 /////
 
